@@ -1085,7 +1085,7 @@ importers:
   packages/hoppscotch-desktop/tauri-plugin-hoppscotch-appload:
     dependencies:
       '@tauri-apps/api':
-        specifier: '>=2.0.0-beta.6'
+        specifier: ^2.0.0
         version: 2.1.1
     devDependencies:
       '@rollup/plugin-typescript':
